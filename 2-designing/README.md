@@ -470,7 +470,3 @@ SQLite automatically converts inserted values to fit the column type.
 | Constraints         | Rules for data integrity |
 | ALTER TABLE         | Modify existing tables   |
 | .schema             | Show table definitions   |
-
----
-
-Would you like me to make a follow-up summary for **queries (SELECT, JOIN, WHERE, GROUP BY)** next — same format?
