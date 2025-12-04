@@ -28,7 +28,7 @@ Relating is how having multiple tables in our database - people, places, things 
 - [Groups](#groups)
   - [GROUP BY](#group-by)
   - [HAVING](#having)
-- [SUMMARY INTUITION](#summary-intuition)
+- [QUICK SUMMARY](#quick-summary)
 
 ### relational database
 
@@ -332,7 +332,7 @@ FROM ratings GROUP BY "book_id"
 HAVING "total ratings" < 200; -- it use different keyword for groups to apply and not WHERE.
 ```
 
-### SUMMARY INTUITION
+### QUICK SUMMARY
 
 - **JOIN** → Combines data from two or more tables using a related column.
 - **INNER JOIN** → Shows only rows that exist in both tables.

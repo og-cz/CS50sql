@@ -1,7 +1,5 @@
 # Writing
 
-# Table of Contents
-
 - [Writing](#writing)
 - [QUICK SUMMARY](#quick-summary)
 - [Museum of fine arts](#museum-of-fine-arts)
@@ -32,18 +30,7 @@
   - [OLD and NEW (Inside Triggers)](#old-and-new--inside-triggers)
   - [Example: Log Every Deletion](#example-log-every-deletion)
 - [SOFT DELETIONS](#soft-deletions)
-- [SUMMARY INTUITION](#summary-intuition)
-  - [MUSEUM OF FINE ARTS (SQL BASICS)](#museum-of-fine-arts-sql-basics)
-  - [CREATE (INSERT)](#create-insert)
-  - [MULTIPLE INSERTS](#multiple-inserts)
-  - [IMPORTING DATA (CSV)](#importing-data-csv)
-  - [DELETE](#delete)
-  - [FOREIGN KEY CONSTRAINTS (summary)](#foreign-key-constraints-summary)
-  - [UPDATE (summary)](#update-summary)
-  - [TEXT FIXING FUNCTIONS](#text-fixing-functions)
-  - [TRIGGERS (summary)](#triggers-summary)
-  - [SOFT DELETIONS (summary)](#soft-deletions-summary)
-  - [QUICK SUMMARY](#quick-summary-1)
+- [QUICK SUMMARY](#quick-summary)
 
 ## Museum of fine arts
 
@@ -526,7 +513,7 @@ SELECT * FROM collections WHERE deleted != 1;
 -- 5|Profusion of flowers|56.247|1956-04-12|0
 ```
 
-# SUMMARY INTUITION
+# QUICK SUMMARY
 
 ### MUSEUM OF FINE ARTS (SQL BASICS)
 
